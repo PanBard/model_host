@@ -1,0 +1,12 @@
+bialy
+brak
+cielisty
+czarny
+fioletowy_p
+nieb_rozowy
+niebieski
+pomaranczowy
+pomaranczowy_p
+zielony
+zolty
+zolty_p
